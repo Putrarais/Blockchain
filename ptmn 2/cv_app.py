@@ -16,7 +16,7 @@ pengalaman = st.sidebar.text_area("Pengalaman organisasi", "")
 
 sertifikat = st.sidebar.checkbox("apakah kamu punya sertifikat")
 if sertifikat:
-    st.success("")
+    st.success("Sertifikat berhasil ditambahkan")
     sertifikat = st.sidebar.text_area("masukkan sertifikat", "")
 else:
     st.markdown("")
@@ -24,7 +24,7 @@ else:
 
 
 #area utama
-st.title("CV")
+st.title("Curiculum Vitae")
 st.markdown("---------")
 
 kolom_kiri, kolom_kanan = st.columns([4, 1])
@@ -51,7 +51,7 @@ with kolom_kanan:
 # - BAGIAN KEAHLIAN (SKILLS) -
 st.markdown("### Keahlian Teknis")
 # Sidebar slider untuk mengatur level skill
-st.sidebar.markdown(" -")
+st.sidebar.markdown(" -------")
 st.sidebar.subheader("Atur Kemahiran Skill")
 skill_python = st.sidebar.slider("Python", 0, 100, 80)
 skill_web = st.sidebar.slider("Web Development", 0, 100, 60)
