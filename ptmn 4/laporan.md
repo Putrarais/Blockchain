@@ -5,6 +5,9 @@
 2. muhammad haekal bilal
 3. putra rais hakim
 
+## SS ##
+![alt text](image.png)
+
 ### tujuan pratikum ###
 1. Mahasiswa memahami konsep Object-Oriented Programming (OOP) pada Python melalui
 pembuatan Class.
