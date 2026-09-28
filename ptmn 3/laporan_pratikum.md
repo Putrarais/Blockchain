@@ -1,5 +1,5 @@
 # 📚pratikum blockchain pertemuan 3 #
-
+![alt text](image.png)
 ### tujuan pratikum ###
 1. Mahasiswa memahami konsep Object-Oriented Programming (OOP) pada Python melalui
 pembuatan Class.
