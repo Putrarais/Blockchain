@@ -15,7 +15,7 @@ pembuatan Class.
 Backend (Core) dan antarmuka Frontend (UI).
 3. Mahasiswa dapat membangun struktur Linked List terenkripsi menggunakan Hash
 Pointers.
-4. Mahasiswa mampu mensimulasikan sistem "Traceability Rantai Pasok Kopi" sederhana di
+4. Mahasiswa mampu mensimulasikan sistem "tambahkan data film ke hipilem" sederhana di
 lingkungan lokal.
 
 ### deskripsi pratikum ###
