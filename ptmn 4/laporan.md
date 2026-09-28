@@ -15,8 +15,7 @@ pembuatan Class.
 Backend (Core) dan antarmuka Frontend (UI).
 3. Mahasiswa dapat membangun struktur Linked List terenkripsi menggunakan Hash
 Pointers.
-4. Mahasiswa mampu mensimulasikan sistem "tambahkan data film ke hipilem" sederhana di
-lingkungan lokal.
+4. Mahasiswa mampu mensimulasikan sistem "tambahkan data film ke hipilem" sederhana di data perangkat hipilem
 
 ### deskripsi pratikum ###
 1. membuat 2 buah file di dalam satu folder ptmn 3 yaitu : 'core.py' dan 'app.py'
