@@ -1,5 +1,9 @@
 # LAPORAN PRAKTIKUM BLOCKCHAIN
-**TOPIK: IMPLEMENTASI PROOF OF WORK (PoW), SIMULASI PERETASAN MEMORI, DAN ANALISIS DIFFICULTY**
+
+## kelompok ##
+1. fakhri muhtasib
+2. muhammad haekal bilal
+3. putra rais hakim
 
 ---
 ![alt text](image.png)
