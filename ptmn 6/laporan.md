@@ -18,3 +18,7 @@ setelah menyelesaikan pratikum ini, mahasiswa diharapkan mampu :
 ![alt text](<Screenshot 2026-10-05 144735.png>)
 
 4. mengupdate data :
+![alt text](image-1.png)
+
+5. memanggil pesanan :
+![alt text](image-2.png)
